@@ -1,0 +1,50 @@
+/*comentario en css*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f9f9fb;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+div{
+    background-color: white;
+    padding: 30px;
+    width: 380px;
+    text-align: left;
+    margin: 200px auto;
+}
+
+h1 {
+    font-size: x-large; color: #343d59;
+    margin: 10px;
+}
+  
+p {
+    color: #343d59;
+    margin: 10px;
+}
+
+span {
+    color: blue;
+}
+
+h2 {
+    background-color: #567ee4;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    font-size: medium;
+    margin: 15px;
+
+
+
+    
+     
+}
